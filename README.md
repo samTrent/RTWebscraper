@@ -2,9 +2,10 @@
 
 This project is available for anyone who wants to use it to gather data on Rotten Tomatoes user and critic reviews.
 This web scraper downloads all the reviews it can find for a given movie and computes the scores. Then it shows a comparison of the scores it calculated vs the scores displayed on the website.
-```
+
+NOTE: This project is currently a work in progress.
 NOTE: Currently the program can only gather the first 10 reviews from the user scores. This issue is currently being worked on.
-```
+
 
 ### Required Libraries
 

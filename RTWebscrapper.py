@@ -1,6 +1,7 @@
 import requests #for making web requests
 import bs4 # formatting the HTML
 import json
+
 from UserReview import UserReview
 from UserReview import buildUserReviewObject
 from CriticReview import CriticReview
