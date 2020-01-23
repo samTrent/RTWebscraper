@@ -20,7 +20,7 @@ NOTE: This project only runs on Python 3
 
 Simply run RTWebscrapper.py via Python 3 
 
-Enter the name of a move you want to look up. If the move that you enter doesnt turn up, try entering the name of the move followed by the date the move came out. If the movie still doesn't show up but you know its listed on Rotten Tomatoes, check the URL for the movie's homepage and enter that in.
+Enter the name of a move you want to look up. If the move that you enter doesn't turn up, try entering the name of the move followed by the date the move came out. If the movie still doesn't show up but you know its listed on Rotten Tomatoes, check the URL on the movie's homepage and enter that in.
 
 ### Examples
 ```
@@ -33,7 +33,6 @@ the thing 2011 (Example of how sometimes you need to add the date the movie came
 it 2017
 1917 2019
 1021244_thing (This is The Thing 1982, this is an example of how some movies don't follow the standard format)
-
 ```
 
 ## Authors
